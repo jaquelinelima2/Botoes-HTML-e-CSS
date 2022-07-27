@@ -20,6 +20,6 @@ HTML, CSS
 
 | Cor    | Hexadecimal                                                      |
 | ------ | ---------------------------------------------------------------- |
-| Rosa   | ![d70498](https://via.placeholder.com/10/#d70498?text=+) #d70498 |
-| Branco | ![fff5f5](https://via.placeholder.com/10/#fff5f5?text=+) #fff5f5 |
-| Preto  | ![000000](https://via.placeholder.com/10/#000000?text=+) #000000 |
+| Rosa   | ![d70498](https://via.placeholder.com/10/d70498?text=+) #d70498 |
+| Branco | ![fff5f5](https://via.placeholder.com/10/fff5f5?text=+) #fff5f5 |
+| Preto  | ![000000](https://via.placeholder.com/10/000000?text=+) #000000 |
